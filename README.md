@@ -1,14 +1,14 @@
 # HTML
 1. Overall structure
-2. <p>
-3. <h1>, <h2>, ...
-4. <button>
-5. <a>
-6. <img>
-7. <ul> with <li>
-8. <div>
-9. <span>
-10. <form> with <input>
+2. p
+3. h1, h2, ...
+4. button
+5. a
+6. img
+7. ul with li
+8. div
+9. span
+10. form with input
 11. External resources
 
 # CSS
